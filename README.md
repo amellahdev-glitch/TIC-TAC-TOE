@@ -1,7 +1,18 @@
-## Rock paper scissor game 
+## TIC TAC TOE
 
-a game when the user play against the computer move
+#Description:
 
-## build with :
+-- the project is a tic tac toe game you play against the computer with a counter of the wines and the loses.
 
-html / CSS / JavaScript (Math.random())
+# Tecknologie used:
+
+-HTML5
+-CSS3
+-JAVASCRIPT
+
+# Live link:
+
+
+# My Contact:
+
+email: amellah.dev@gmail.com
