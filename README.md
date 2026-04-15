@@ -18,7 +18,7 @@ You play against the computer and try to win as many times as possible while tra
 🛠️ Technologies Used
 HTML5
 CSS3
-JavaScript (Vanilla JS)
+JavaScript
 🔗 [Live Demo](https://amellahdev-glitch.github.io/TIC-TAC-TOE/)
 
 Play it here 👉 https://amellahdev-glitch.github.io/TIC-TAC-TOE/
