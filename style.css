@@ -67,3 +67,25 @@
 .buttons button:hover {
     box-shadow: 0 0 12px #ff3000;
 }
+
+
+/* phone design */
+
+@media (max-width: 700px) {
+    .buttons button {
+        font-size: 0.8rem;
+        animation: button 1s;
+    }
+
+    @keyframes button {
+        from {
+            transform: translateY(50px);
+            scale: 0.8;
+        }
+
+        to {
+            transform: translateX(0);
+            scale: 1;
+        }
+    }
+}
